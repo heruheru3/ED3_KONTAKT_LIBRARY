@@ -1,6 +1,6 @@
-# ED3_KONTAKT_LIBRARY
+# ファルコム風FM音源 KONTAKT サウンドセット
 
-日本ファルコム 英雄伝説Ⅲ 白き魔女ライクなKONTAKTサウンドライブラリです  
+日本ファルコムのFM音源風なKONTAKTサウンドライブラリです  
 ※要 KONTAKT 5.7.3 以降(KONTAKT PLAYERでは利用不可)
 
 ## ダウンロード
