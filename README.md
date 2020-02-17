@@ -9,4 +9,4 @@ v0.0.3 https://github.com/heruheru3/ED3_KONTAKT_LIBRARY/archive/0.03.zip
 
 ## サンプル
 
-[![thumbnail](https://pbs.twimg.com/ext_tw_video_thumb/1180102219816849408/pu/img/CiAve9IYceah6qEu.jpg)](https://twitter.com/i/moments/1197941411603070976){:target="_blank"}
+[![thumbnail](https://pbs.twimg.com/ext_tw_video_thumb/1180102219816849408/pu/img/CiAve9IYceah6qEu.jpg)](https://twitter.com/i/moments/1197941411603070976)
