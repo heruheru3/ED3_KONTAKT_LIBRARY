@@ -5,7 +5,7 @@
 
 ## ダウンロード
 
-最新版 https://github.com/heruheru3/ED3_KONTAKT_LIBRARY/releases/latest
+最新版ダウンロード https://github.com/heruheru3/ED3_KONTAKT_LIBRARY/releases/latest
 
 ## サンプル
 
