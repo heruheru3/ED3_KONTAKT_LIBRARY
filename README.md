@@ -1,11 +1,11 @@
-# ファルコム風FM音源 KONTAKT サウンドセット
+# YM2608 FM音源風 KONTAKT サウンドセット
 
-日本ファルコムのFM音源風なKONTAKTサウンドライブラリです  
+YM2608 FM音源風なKONTAKTサウンドライブラリです  
 ※要 KONTAKT 6.2.1以降(KONTAKT PLAYERでは利用不可)
 
 ## ダウンロード
 
-最新版 https://github.com/heruheru3/ED3_KONTAKT_LIBRARY/releases/latest
+最新版ダウンロード https://github.com/heruheru3/ED3_KONTAKT_LIBRARY/releases/latest
 
 ## サンプル
 
