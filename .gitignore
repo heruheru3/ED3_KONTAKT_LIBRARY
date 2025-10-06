@@ -1,5 +1,5 @@
 # Byte-compiled / optimized / DLL files
-*.wav
+#*.wav
 *.tmp
 __pycache__/
 *.py[cod]
